@@ -6,12 +6,6 @@ Sou estudante de Análise e Desenvolvimento de Sistemas no ensino superior e tam
 
 Desenvolvedora Full Stack: Interesse em atuar como Analista e Desenvolvedora de Sistemas, tanto no Front-end quanto no Back-end.
 
-📚 Formação e Aprendizado
-
-Análise e Desenvolvimento de Sistemas - Universidade Cruzeiro do Sul
-
-Programação Web pelo PROA
-
 📔💙Atualmente Estou me Aprofundando em:
 
 Java e Banco de Dados: Desenvolvendo habilidades avançadas em programação orientada a objetos e gestão de dados.
