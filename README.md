@@ -8,8 +8,6 @@ Desenvolvedora Full Stack: Interesse em atuar como Analista e Desenvolvedora de 
 
 📚 Formação e Aprendizado
 
-Cursos Acadêmicos:
-
 Análise e Desenvolvimento de Sistemas - Universidade Cruzeiro do Sul
 
 Programação Web pelo PROA
