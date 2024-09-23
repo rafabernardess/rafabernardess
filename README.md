@@ -20,9 +20,9 @@ Estou em busca de mais aprendizado e evolução, sempre buscando aprimorar minha
 
  ##
   <div align="center">
-    <a href="https://github.com/LiveaBrito">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RafaBernardess&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaBernardess&layout=compact&langs_count=7&theme=dracula"/>
+    <a href="https://github.com/rafabernardess">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rafabernardess&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafabernardess&layout=compact&langs_count=7&theme=dracula"/>
 </div>
       
 <div style="display: inline_block"><br>
