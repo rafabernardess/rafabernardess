@@ -18,10 +18,11 @@ UI/UX Design: Projetando interfaces centradas no usuário com Figma.
 
 Estou em busca de mais aprendizado e evolução, sempre buscando aprimorar minhas habilidades técnicas. Adoro trabalhar em projetos colaborativos e estou sempre aberta a novas ideias e desafios.
 
+ ##
   <div align="center">
-    <a href="https://github.com/rafabernardess">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafabernardess&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafabernardess&layout=compact&langs_count=7&theme=dark"/>
+    <a href="https://github.com/LiveaBrito">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=RafaBernardess&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafaBernardess&layout=compact&langs_count=7&theme=dracula"/>
 </div>
       
 <div style="display: inline_block"><br>
@@ -30,9 +31,10 @@ Estou em busca de mais aprendizado e evolução, sempre buscando aprimorar minha
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
+  <img align="center" alt="Rafa-MySql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
-  ##
   ## Minhas Redes de Contato:
   
 <div>
