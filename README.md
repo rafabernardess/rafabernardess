@@ -1,6 +1,6 @@
 Olá, sou a Rafaela Bernardes! 👋
 
-Sou estudante de Análise e Desenvolvimento de Sistemas no ensino superior e também estou cursando Programação Web - Java pelo PROA como aluna Proane. Tenho paixão por aprendizado e evolução, além de ser esforçada e determinada em tudo o que faço.
+Sou estudante de Análise e Desenvolvimento de Sistemas no ensino superior e também estou cursando Programação Web - Java pelo instituto PROA. Tenho paixão por aprendizado e evolução, além de ser esforçada e determinada em tudo o que faço.
 
 💻 Interesses Profissionais
 
