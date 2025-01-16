@@ -1,17 +1,17 @@
 Olá, sou a Rafaela Bernardes! 👋
 
-Sou estudante de Análise e Desenvolvimento de Sistemas no ensino superior e também concluí recentemente o curso de Programação Web - Java pelo instituto PROA. Tenho paixão por aprendizado e evolução, além de ser esforçada e determinada em tudo o que faço.
+Sou Formada em Análise e Desenvolvimento de Sistemas e também Formada no curso de Programação Web - Java pelo instituto PROA. Tenho paixão por aprendizado e evolução, além de ser esforçada e determinada em tudo o que faço.
 
 💻 Interesses Profissionais
 
 Desenvolvedora Full Stack: Interesse em atuar como Analista e Desenvolvedora de Sistemas, tanto no Front-end quanto no Back-end.
 Desenvolvedora de Branco de Dados.
 
-📔💙Atualmente Estou me Aprofundando em:
+📔💙Atualmente continuo me Aprofundando em:
 
 Java e Banco de Dados: Desenvolvendo habilidades avançadas em programação orientada a objetos e gestão de dados.
 
-Desenvolvimento Web: Criando sistemas web robustos utilizando HTML, CSS e JavaScript.
+Desenvolvimento Web: Criando sistemas web robustos utilizando HTML, CSS e JavaScript. Alguns Projetos já estão disponíveis em meu Portfólio.
 
 UI/UX Design: Projetando interfaces centradas no usuário com Figma.
 
