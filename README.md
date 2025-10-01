@@ -4,8 +4,7 @@ Sou Formada em Análise e Desenvolvimento de Sistemas e também Formada no curso
 
 💻 Interesses Profissionais
 
-Desenvolvedora Full Stack: Interesse em atuar como Analista e Desenvolvedora de Sistemas, tanto no Front-end quanto no Back-end.
-Desenvolvedora de Branco de Dados.
+Interesse em iniciar minha carreira em TI como Jovem Aprendiz, Auxiliar ou Assistente, contribuindo com suporte, manutenção de sistemas e organização de dados, e desenvolvendo habilidades em programação, banco de dados e tecnologia em geral.
 
 📔💙Atualmente continuo me Aprofundando em:
 
